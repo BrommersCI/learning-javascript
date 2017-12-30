@@ -11,5 +11,6 @@ Learning JavaScript using [NodeSchool](https://nodeschool.io). I'm using [Window
 4. [String Length](https://github.com/MaxShalom/learning-javascript/blob/master/Basic%20JavaScript/string-length.js)
 5. [Revising Strings](https://github.com/MaxShalom/learning-javascript/blob/master/Basic%20JavaScript/revising-strings.js)
 6. [Numbers](https://github.com/MaxShalom/learning-javascript/blob/master/Basic%20JavaScript/numbers.js)
+7. [Rounding Numbers](https://github.com/MaxShalom/learning-javascript/blob/master/Basic-JS/rounding-numbers.js)
 
 Hope this helps someone.
