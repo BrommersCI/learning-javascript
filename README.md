@@ -1,6 +1,6 @@
 # Learning JavaScript
 
-Learning JavaScript using [NodeSchool](https://nodeschool.io). I'm using [Windows Powershell](https://docs.microsoft.com/en-us/powershell/) with [Node.js](https://nodejs.org/en/) and [VS Code](https://code.visualstudio.com/) to run the course.
+Learning JavaScript using [NodeSchool](https://nodeschool.io). I'm using [Windows Powershell](https://docs.microsoft.com/en-us/powershell/) with [Node.js](https://nodejs.org/en/) and [VS Code](https://code.visualstudio.com/) to run the course. Additionally, the Node.js course requires [Git](https://git-scm.com/).
 
 ## Table of Contents
 
@@ -24,5 +24,8 @@ Learning JavaScript using [NodeSchool](https://nodeschool.io). I'm using [Window
 17. [Functions](https://github.com/MaxShalom/learning-javascript/blob/master/Basic-JS/functions.js)
 18. [Function Arguments](https://github.com/MaxShalom/learning-javascript/blob/master/Basic-JS/function-arguments.js)
 19. [Scope](https://github.com/MaxShalom/learning-javascript/blob/master/Basic-JS/scope.js)
+
+### [Node.js Basics Package](https://www.github.com/workshopper/learnyounode)
+1. [Hello World](https://github.com/MaxShalom/learning-javascript/blob/master/Node.js/intro.js)
 
 Hope this helps someone.
